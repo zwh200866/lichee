@@ -1,0 +1,1 @@
+cmd_drivers/misc/hts221/built-in.o :=  rm -f drivers/misc/hts221/built-in.o; /media/whzhang/000D2680000C0B68/BonjourClock/lichee/out/external-toolchain/gcc-aarch64/bin/aarch64-linux-gnu-ar rcsD drivers/misc/hts221/built-in.o

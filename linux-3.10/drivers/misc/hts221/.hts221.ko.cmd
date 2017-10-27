@@ -1,0 +1,1 @@
+cmd_drivers/misc/hts221/hts221.ko := /media/whzhang/000D2680000C0B68/BonjourClock/lichee/out/external-toolchain/gcc-aarch64/bin/aarch64-linux-gnu-ld -EL -r --fix-cortex-a53-843419 -T /media/whzhang/000D2680000C0B68/BonjourClock/lichee/linux-3.10/scripts/module-common.lds --build-id  -o drivers/misc/hts221/hts221.ko drivers/misc/hts221/hts221.o drivers/misc/hts221/hts221.mod.o
